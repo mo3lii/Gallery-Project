@@ -35,12 +35,14 @@
 
 #full-div img {
   max-height: 90%;
-  max-width: 80%;
+  max-width: 90%;
 }
 
 #full-div .left-btn,
 #full-div .right-btn {
   font-size: 24px;
+  padding: 10px;
+
   color: rgba(255, 255, 255, 0.7);
   cursor: pointer;
 }
