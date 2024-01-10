@@ -32,6 +32,6 @@ body {
 }
 @media (max-width: 767px) {
   #gallery {
-    width: 90%;
+    width: 80%;
   }
 }
