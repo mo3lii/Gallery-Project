@@ -28,7 +28,7 @@ body {
   margin: 0 0 16px;
 }
 #gallery {
-  width: 70%;
+  width: 60%;
 }
 @media (max-width: 767px) {
   #gallery {
