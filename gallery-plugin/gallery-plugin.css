@@ -1,6 +1,7 @@
 /* gallery.css */
 
 .gallery-container {
+  box-sizing: border-box;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 8px;
@@ -10,6 +11,7 @@
 }
 
 .gallery-item {
+  box-sizing: border-box;
   width: 100%;
   max-width: 100%;
   aspect-ratio: 1/1;
@@ -19,6 +21,7 @@
 }
 
 #full-div {
+  box-sizing: border-box;
   position: fixed;
   top: 0;
   left: 0;
@@ -40,6 +43,7 @@
 
 #full-div .left-btn,
 #full-div .right-btn {
+  box-sizing: border-box;
   font-size: 22px;
   padding: 4px;
 
