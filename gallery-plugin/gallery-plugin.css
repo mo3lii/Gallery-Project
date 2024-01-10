@@ -34,8 +34,8 @@
 }
 
 #full-div img {
-  height: 90%;
-  width: auto;
+  max-height: 90%;
+  max-width: 80%;
 }
 
 #full-div .left-btn,
