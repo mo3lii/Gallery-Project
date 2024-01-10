@@ -30,3 +30,8 @@ body {
 #gallery {
   width: 70%;
 }
+@media (max-width: 767px) {
+  #gallery {
+    width: 90%;
+  }
+}
